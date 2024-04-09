@@ -1,0 +1,17 @@
+.idea/
+__pycache__/
+result/*
+data/preprocessed/*
+data/raw/*
+mine.py
+trained_model/*
+**/__pycache__/
+
+
+
+!data/raw/applied.csv
+!data/raw/approved.csv
+!data/raw/.gitkeep
+!data/preprocessed/.gitkeep
+!result/.gitkeep
+
